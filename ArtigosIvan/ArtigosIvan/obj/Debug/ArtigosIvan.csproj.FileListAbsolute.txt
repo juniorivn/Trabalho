@@ -1,0 +1,51 @@
+c:\users\ivan-lari\documents\visual studio 2015\Projects\ArtigosIvan\ArtigosIvan\bin\Debug\ArtigosIvan.exe.config
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\bin\Debug\ArtigosIvan.exe
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\bin\Debug\ArtigosIvan.pdb
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\bin\Debug\MySql.Data.dll
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\bin\Debug\MySql.Data.xml
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.csprojResolveAssemblyReference.cache
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Dashboard.resources
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Login.resources
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Properties.Resources.resources
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.csproj.GenerateResource.Cache
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.exe
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.pdb
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Cadastrar.resources
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Listar.resources
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.EscreverArtigo.resources
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Publicar_Artigo.resources
+C:\Users\Ivan-Lari\Documents\Visual Studio 2015\Projects\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Ver_Artigos.resources
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\bin\Debug\ArtigosIvan.exe.config
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.exe
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.pdb
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\bin\Debug\ArtigosIvan.exe
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\bin\Debug\ArtigosIvan.pdb
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\bin\Debug\MySql.Data.xml
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Cadastrar.resources
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Dashboard.resources
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.EscreverArtigo.resources
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Listar.resources
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Login.resources
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Properties.Resources.resources
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Publicar_Artigo.resources
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Ver_Artigos.resources
+E:\executaveis liberados\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.csproj.GenerateResource.Cache
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\bin\Debug\ArtigosIvan.exe.config
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.exe
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.pdb
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\bin\Debug\ArtigosIvan.exe
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\bin\Debug\ArtigosIvan.pdb
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\bin\Debug\MySql.Data.dll
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\bin\Debug\MySql.Data.xml
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.csprojResolveAssemblyReference.cache
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Cadastrar.resources
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Dashboard.resources
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.EscreverArtigo.resources
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Listar.resources
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Login.resources
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Properties.Resources.resources
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Publicar_Artigo.resources
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Ver_Artigos.resources
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.csproj.GenerateResource.Cache
+C:\Users\Ivan-Lari\Downloads\Trabalho\ArtigosIvan\ArtigosIvan\obj\Debug\ArtigosIvan.Pulicacoes.resources
